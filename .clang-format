@@ -1,0 +1,12 @@
+# .clang-format
+
+BasedOnStyle: LLVM
+IndentWidth: 2
+TabWidth: 2
+UseTab: Never
+ColumnLimit: 120
+PointerAlignment: Left
+BreakBeforeBraces: Attach
+AllowShortIfStatementsOnASingleLine: WithoutElse
+SpaceBeforeParens: ControlStatements
+DerivePointerAlignment: false
